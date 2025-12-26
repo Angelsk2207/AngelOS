@@ -1,0 +1,8 @@
+{
+  "name": "Gemini WebOS",
+  "description": "A futuristic AI-powered operating system dashboard featuring real-time system simulation, a terminal CLI, and an intelligent assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
